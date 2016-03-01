@@ -1,0 +1,712 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"comm",
+				"commentdata"
+			],
+			[
+				"ap",
+				"append"
+			],
+			[
+				"l",
+				"label	Tag"
+			],
+			[
+				"f",
+				"form"
+			],
+			[
+				"s",
+				"sapi"
+			],
+			[
+				"SI",
+				"signal"
+			],
+			[
+				"si",
+				"signal"
+			],
+			[
+				"wor",
+				"wordcloud"
+			],
+			[
+				"use",
+				"userlist"
+			],
+			[
+				"up",
+				"updatetext"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"T",
+				"True"
+			],
+			[
+				"select",
+				"selectAll"
+			],
+			[
+				"tw",
+				"tweets_tail"
+			],
+			[
+				"line",
+				"linechart"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"cr",
+				"created_at"
+			],
+			[
+				"wo",
+				"wordcloud"
+			],
+			[
+				"word",
+				"words_array"
+			],
+			[
+				"cu",
+				"counter"
+			],
+			[
+				"tex",
+				"textString"
+			],
+			[
+				"te",
+				"textString"
+			],
+			[
+				"tag",
+				"tag_cloud"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"Con",
+				"CountryName"
+			],
+			[
+				"to",
+				"tooltip"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"GD",
+				"GDP"
+			],
+			[
+				"G",
+				"GDP"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"a",
+				"attr"
+			],
+			[
+				"clo",
+				"color"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"dv",
+				"div	Tag"
+			],
+			[
+				"ax",
+				"axis"
+			],
+			[
+				"scale",
+				"scaleY"
+			],
+			[
+				"E",
+				"Ease_of_Bussiness"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fi",
+				"filter"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"at",
+				"attr"
+			],
+			[
+				"list",
+				"list"
+			],
+			[
+				"r",
+				"result"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"con",
+				"country"
+			],
+			[
+				"cont",
+				"country"
+			],
+			[
+				"sle",
+				"select"
+			],
+			[
+				"p",
+				"p"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_includes/portfolio.html",
+			"settings":
+			{
+				"buffer_size": 1776,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/navbar.html",
+			"settings":
+			{
+				"buffer_size": 1435,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/head.html",
+			"settings":
+			{
+				"buffer_size": 1964,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/header.html",
+			"settings":
+			{
+				"buffer_size": 532,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 207,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/footer.html",
+			"settings":
+			{
+				"buffer_size": 874,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 892,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 107.0,
+		"selected_items":
+		[
+			[
+				"bs tem",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"bs3tem",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"bs3 tem",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"bs pan",
+				"Snippet: bs3-panel"
+			],
+			[
+				"bs3 t",
+				"Snippet: bs3-thumbnail"
+			],
+			[
+				"bs3 ht",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"Snippet: ",
+				"Snippet: bs3-form"
+			],
+			[
+				"bs3",
+				"Snippet: bs3-cdn"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html5",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/liziliang/porfolio/index.html",
+		"/Users/liziliang/porfolio/_includes/head.html",
+		"/Users/liziliang/ReadTo /app.py",
+		"/Users/liziliang/ReadTo /templates/ebook.html",
+		"/Users/liziliang/ReadTo /templates/read.html",
+		"/Users/liziliang/ReadTo /templates/login.html",
+		"/Users/liziliang/Group-8/templates/index.html",
+		"/Users/liziliang/Group-8/app.py",
+		"/Users/liziliang/ReadTo/templates/read.html",
+		"/Users/liziliang/ReadTo/app.py",
+		"/Users/liziliang/NYUharckthon/index.html",
+		"/Users/liziliang/NYUharckthon/signinpage.html",
+		"/Users/liziliang/twitter_monitor/world-110m2.json",
+		"/Users/liziliang/twitter_monitor/templates/untitled.html",
+		"/Users/liziliang/twitter_monitor/wordcloud.html",
+		"/Users/liziliang/twitter_monitor/templates/test.html",
+		"/Users/liziliang/twitter_monitor/stick.js",
+		"/Users/liziliang/Desktop/lab4.py",
+		"/Users/liziliang/twitter_monitor/twitter_stream_listener.py",
+		"/Users/liziliang/infovis_project/public/myscript.js",
+		"/Users/liziliang/twitter_monitor/print.py",
+		"/Users/liziliang/twitter_monitor/service.py",
+		"/Users/liziliang/twitter_monitor/static/map.html",
+		"/Users/liziliang/twitter_monitor/templates/index.html",
+		"/Users/liziliang/twitter_monitor/static/heatmap-gmaps.js",
+		"/Users/liziliang/infovis_project/public/component.js",
+		"/Users/liziliang/infovis_project/wordcloud.html",
+		"/Users/liziliang/infovis_project/wordcloud.js",
+		"/Users/liziliang/infovis_project/piechart_update.html",
+		"/Users/liziliang/infovis_project/myscript.js",
+		"/Users/liziliang/infovis_project/layout.html",
+		"/Users/liziliang/Desktop/twitter-stream/public/myscript.js",
+		"/Users/liziliang/Desktop/twitter-stream/dashboard.js",
+		"/Users/liziliang/sentiments/sentiments.py",
+		"/Users/liziliang/sentiments/data/alt.json",
+		"/Users/liziliang/infovis_project/sentiments.txt",
+		"/Users/liziliang/sentiments/argparse==1.2.1",
+		"/Users/liziliang/Desktop/get-pip.py",
+		"/Users/liziliang/infovis_project/data1.tsv",
+		"/Users/liziliang/infovis_project/data.tsv",
+		"/Users/liziliang/infovis_project/my.twitter.credentials.json",
+		"/Users/liziliang/infovis_project/channel.js",
+		"/Users/liziliang/Desktop/vod/Li_Ziliang_5.html",
+		"/Users/liziliang/Desktop/vod/Li_Ziliang_1.html",
+		"/Users/liziliang/Desktop/vod/Li_Ziliang_2.html",
+		"/Users/liziliang/Desktop/vod/Li_Ziliang_6.html",
+		"/Users/liziliang/infovis_project/index.html",
+		"/Users/liziliang/infovis_project/d3.layout.cloud.js",
+		"/Users/liziliang/Desktop/Mywebsite/CSS/main",
+		"/Users/liziliang/Desktop/Mywebsite/About.html",
+		"/Users/liziliang/Desktop/Mywebsite/Index.html",
+		"/Users/liziliang/Desktop/Mywebsite/mywebsite.sublime-project",
+		"/Users/liziliang/Desktop/Mywebsite/index.html",
+		"/Users/liziliang/Ziliang_Blog/css/main.scss",
+		"/Users/liziliang/Ziliang_Blog/.gitignore",
+		"/Users/liziliang/Ziliang_Blog/feed.xml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"textId",
+			";\n",
+			"update"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_includes/portfolio.html",
+					"settings":
+					{
+						"buffer_size": 1776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								301,
+								301
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_includes/navbar.html",
+					"settings":
+					{
+						"buffer_size": 1435,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1434,
+								1434
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_includes/head.html",
+					"settings":
+					{
+						"buffer_size": 1964,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								475,
+								475
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_includes/header.html",
+					"settings":
+					{
+						"buffer_size": 532,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								532,
+								532
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_layouts/default.html",
+					"settings":
+					{
+						"buffer_size": 207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								113
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_includes/footer.html",
+					"settings":
+					{
+						"buffer_size": 874,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47,
+								47
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "_config.yml",
+					"settings":
+					{
+						"buffer_size": 892,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								377,
+								377
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 145.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/liziliang/Desktop/jekyll.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
