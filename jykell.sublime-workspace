@@ -259,7 +259,7 @@
 			"file": "_layouts/default.html",
 			"settings":
 			{
-				"buffer_size": 207,
+				"buffer_size": 242,
 				"line_ending": "Unix"
 			}
 		},
@@ -275,7 +275,7 @@
 			"file": "_config.yml",
 			"settings":
 			{
-				"buffer_size": 892,
+				"buffer_size": 894,
 				"line_ending": "Unix"
 			}
 		}
@@ -352,6 +352,7 @@
 	},
 	"file_history":
 	[
+		"/Users/liziliang/porfolio/_includes/javascript.html",
 		"/Users/liziliang/porfolio/index.html",
 		"/Users/liziliang/porfolio/_includes/head.html",
 		"/Users/liziliang/ReadTo /app.py",
@@ -467,7 +468,7 @@
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
@@ -495,7 +496,7 @@
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
@@ -522,7 +523,9 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -549,7 +552,7 @@
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
@@ -563,15 +566,15 @@
 					"file": "_layouts/default.html",
 					"settings":
 					{
-						"buffer_size": 207,
+						"buffer_size": 242,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								113,
-								113
+								192,
+								192
 							]
 						],
 						"settings":
@@ -619,15 +622,15 @@
 					"file": "_config.yml",
 					"settings":
 					{
-						"buffer_size": 892,
+						"buffer_size": 894,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								377,
-								377
+								350,
+								350
 							]
 						],
 						"settings":
